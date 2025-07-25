@@ -1,0 +1,15 @@
+/* src/components/CohortDetails.module.css */
+.box {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 16px;
+  background-color: #fdfdfd;
+  width: 300px;
+  margin: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+}
