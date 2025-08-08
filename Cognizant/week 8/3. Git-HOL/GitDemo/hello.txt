@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Branch: master content
+=======
+Branch: GitNewBranch content
+>>>>>>> 4a53155 (Edit in GitNewBranch)
